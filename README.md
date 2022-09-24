@@ -1,6 +1,6 @@
-# KM Studi Independen Binar Academy FEJS | Challenge Chapter 1
+## KM Studi Independen Binar Academy FEJS | Challenge Chapter 1
 
-Preview [Todo List App](https://indarjaya-binar-fejs-challenge-4.vercel.app).
+Preview [Binar Car Rental](https://binar-fejs-challenge-1.vercel.app/).
 
 ## Support | Thank's For
 1. [Github](https://github.com/)
